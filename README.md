@@ -4,5 +4,5 @@ $ git status
 > # Changes to be committed:
 > #   (use "git reset HEAD ..." to unstage)
 > #
-> #     renamed:  -> new_filename
+> #     renamed: top画面.png -> top.png
 > #
